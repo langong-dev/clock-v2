@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "LanGong Clock v2"
-#define MyAppVersion "2.0.1"
+#define MyAppVersion "2.0.2"
 #define MyAppPublisher "LanGong"
 #define MyAppURL "https://github.com/langong-dev/clock-v2"
 #define MyAppExeName "Clock.exe"
